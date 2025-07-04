@@ -25,8 +25,9 @@ Ideal para **compartilhar informações de forma rápida, prática e moderna**, 
 
 ---
 
-## 🚀 Como utilizar localmente
+## 🌐 Link de Acesso
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/gerador-qrcode.git
+Você pode acessar a versão online do projeto no GitHub Pages neste link:
+
+https://joaoppaixao.github.io/gerador-qr-code/
+
