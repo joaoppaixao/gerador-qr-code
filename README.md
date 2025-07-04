@@ -20,7 +20,6 @@ Ideal para **compartilhar informações de forma rápida, prática e moderna**, 
 - ✍️ Campo para digitar qualquer informação (texto, link, frase).
 - 🔗 Geração automática de QR Code usando a API.
 - 📷 Exibição do QR Code na tela.
-- 📥 Download da imagem do QR Code (opcional, se implementado).
 - 📱 Layout responsivo, funciona bem no desktop e no mobile.
 
 ---
